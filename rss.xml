@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Brigitte Oelke in den Medien]]></title>
+        <description><![CDATA[Brigitte Oelke in den Medien]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 07 Mar 2016 00:58:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Brigitte Oelke: „Queen Mum" in der Musicalwelt]]></title>
+            <description><![CDATA[<article><h1>Brigitte Oelke: „Queen Mum" in der Musicalwelt</h1><p>19. April 2013 - 18:27 Uhr Die gebürtige Schweizerin Brigitte Oelke spielt seit neun Jahren in „We will rock you" mit - derzeit im Colosseum Essen. Essen. Brigitte Oelke ist zur bösen Fee verdammt. Sie ist die düstere Diva vom Dienst. Zumindest auf Musicalbühnen rockt, singt und tanzt die in St.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/594bcbf0d6eda9bc5fb1db06d60a4b712fef848d.jpg"></article>]]></description>
+            <link>http://www.wz.de/home/gesellschaft/leute/brigitte-oelke-queen-mum-in-der-musicalwelt-1.1296836</link>
+            <guid isPermaLink="false">148892cb-d277-48ff-b44e-65e7b5de564f</guid>
+            <pubDate>Mon, 07 Mar 2016 00:57:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
