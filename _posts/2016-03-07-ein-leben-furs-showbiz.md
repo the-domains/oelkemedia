@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.tagblatt.ch/nachrichten/kultur/kultur-tb/Ein-Leben-fuers-Showbiz;art41,2871660'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Tagblatt Online20. Februar 2012, 01:04 Uhr: Melissa King inszeniert und choreographiert Chicago mit glänzenden Darstellerinnen als virtuosen Tanz auf dem dünnen Eis der Unterhaltungsindustrie.'
-datePublished: '2016-03-07T16:12:57.371Z'
-dateModified: '2016-03-07T16:12:54.432Z'
+datePublished: '2016-03-07T21:23:07.432Z'
+dateModified: '2016-03-07T21:22:57.837Z'
 title: "Ein Leben für's Showbiz"
 author: []
 sourcePath: _posts/2016-03-07-ein-leben-furs-showbiz.md
