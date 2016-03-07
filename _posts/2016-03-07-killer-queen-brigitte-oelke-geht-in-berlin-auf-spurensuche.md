@@ -7,8 +7,8 @@ inLanguage: de
 starred: false
 keywords: []
 description: 'Künstlich abstehende rote Haare, deren Frisur "mindestens eine Stunde" dauert, die trainierte Figur in ein Phantasie-Lederkostüm gezwängt: Musicaldarstellerin Brigitte Oelke, die "Killer Queen" in dem Musical "We will rock you", nippt beim "Meet & Greet"-Empfang am späten Sonnabendabend im Theater des Westens (TdW) nur am Mineralwasser.'
-datePublished: '2016-03-07T01:28:07.781Z'
-dateModified: '2016-03-07T01:00:29.765Z'
+datePublished: '2016-03-07T01:41:46.317Z'
+dateModified: '2016-03-07T01:35:08.824Z'
 author:
   - name: Barbara Jänichen
     url: null
