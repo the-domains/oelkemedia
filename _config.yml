@@ -1,6 +1,6 @@
 name: oelkemedia
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.24421
 typography_spectrum: 1
 title: Brigitte Oelke in den Medien
 cta:
@@ -22,8 +22,8 @@ color:
     - '#ceb36c'
     - '#3f1f10'
     - '#bc6e3c'
-  brandStrength: 0.9294554961379617
-  lightness: 0.8559115610551089
-  saturation: 0.3255041968077421
-  rhythmicContrast: 0.10907029313966632
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
