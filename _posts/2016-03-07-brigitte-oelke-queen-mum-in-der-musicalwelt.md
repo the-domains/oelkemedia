@@ -7,8 +7,8 @@ inLanguage: de
 starred: false
 keywords: []
 description: '19. April 2013 - 18:27 Uhr Die gebürtige Schweizerin Brigitte Oelke spielt seit neun Jahren in „We will rock you" mit - derzeit im Colosseum Essen. Essen. Brigitte Oelke ist zur bösen Fee verdammt. Sie ist die düstere Diva vom Dienst. Zumindest auf Musicalbühnen rockt, singt und tanzt die in St.'
-datePublished: '2016-03-07T01:28:03.255Z'
-dateModified: '2016-03-07T01:00:23.566Z'
+datePublished: '2016-03-07T01:31:30.550Z'
+dateModified: '2016-03-07T01:30:21.390Z'
 author: []
 related: []
 app_links: []
