@@ -1,24 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.derwesten.de'
-  name: WAZ
-  favicon: 'http://www.derwesten.de/resources/27287/ver1-0/img/favicon_waz.ico'
-  domain: www.derwesten.de
-keywords: []
-description: 'Essen. „We Will Rock You" ist zurück. Das Queen-Musical, das im Spannungsfeld zwischen Rock und Entertainment von Erfolg zu Erfolg um die Welt geeilt ist, feierte im Essener Colosseum Theater Premiere. Und es ließ sich feiern vom Publikum. Gesang, Technik und Inszenierung überzeugen durchweg.'
-inLanguage: de
-app_links: []
-isBasedOnUrl: 'http://www.derwesten.de/staedte/essen/mit-dynamit-und-laserstrahl-id7826551.html'
-title: 'Queen-Musical "We Will Rock You" ist frischer denn je'
-datePublished: '2016-03-07T01:32:58.802Z'
-dateModified: '2016-03-07T01:09:21.259Z'
-sourcePath: _posts/2016-03-07-queen-musical-we-will-rock-you-ist-frischer-denn-je.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'http://www.derwesten.de/staedte/essen/mit-dynamit-und-laserstrahl-id7826551.html'
+inLanguage: de
+starred: false
+keywords: []
+description: 'Essen. „We Will Rock You" ist zurück. Das Queen-Musical, das im Spannungsfeld zwischen Rock und Entertainment von Erfolg zu Erfolg um die Welt geeilt ist, feierte im Essener Colosseum Theater Premiere. Und es ließ sich feiern vom Publikum. Gesang, Technik und Inszenierung überzeugen durchweg.'
+datePublished: '2016-03-07T01:33:33.148Z'
+dateModified: '2016-03-07T01:33:03.790Z'
+author: []
+related: []
+app_links: []
+title: 'Queen-Musical "We Will Rock You" ist frischer denn je'
+sourcePath: _posts/2016-03-07-queen-musical-we-will-rock-you-ist-frischer-denn-je.md
+published: true
+authors: []
+publisher:
+  name: WAZ
+  domain: www.derwesten.de
+  url: 'http://www.derwesten.de'
+  favicon: 'http://www.derwesten.de/resources/27287/ver1-0/img/favicon_waz.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
