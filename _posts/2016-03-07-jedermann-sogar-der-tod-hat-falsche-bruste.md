@@ -2,23 +2,25 @@
 author: []
 related: []
 publisher:
-  url: 'http://www.tlz.de'
   name: Tlz
-  favicon: 'http://www.tlz.de/zgt-portal-theme/images/custom/favicon_tlz.ico'
   domain: www.tlz.de
+  url: 'http://www.tlz.de'
+  favicon: 'http://www.tlz.de/zgt-portal-theme/images/custom/favicon_tlz.ico'
 keywords: []
 description: 'Erfurt. Geradezu filmdramatisches Pathos generiert das Orchestervorspiel - bis die Band einsetzt, in Alltagszwirn gewandete Jedermänner und -frauen die große Domstufenshowtreppe hinabtänzeln und mit ihrer Choreografie an jene Zeit erinnern, als, wer jung war, für Lang-"Hairiges" schwärmte: Irgendwo zwischen Hollywood und Broadway könnte dieses ubiquitäre "Spiel vom Sterben des reichen Mannes" angesiedelt sein, doch liegt das nicht nur geografisch meilenweit fern.'
 inLanguage: de
 app_links: []
 isBasedOnUrl: 'http://www.tlz.de/web/zgt/kultur/detail/-/specific/Jedermann-Sogar-der-Tod-hat-falsche-Brueste-1805308981'
 title: '"Jedermann": Sogar der Tod hat falsche Brüste'
-datePublished: '2016-03-07T01:39:36.634Z'
-dateModified: '2016-03-07T01:21:46.083Z'
+datePublished: '2016-03-07T21:06:44.453Z'
+dateModified: '2016-03-07T21:03:43.947Z'
 sourcePath: _posts/2016-03-07-jedermann-sogar-der-tod-hat-falsche-bruste.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
