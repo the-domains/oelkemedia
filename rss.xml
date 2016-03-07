@@ -4,8 +4,15 @@
         <description><![CDATA[Brigitte Oelke in den Medien]]></description>
         <link>https://thegrid.ai/oelkemedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 21:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 21:23:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oelkemedia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ein Leben für's Showbiz]]></title>
+            <description><![CDATA[<article><h1>Ein Leben für's Showbiz</h1><p>Brigitte Oelke ist Mama Morton im Musical CHICAGO</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/193b26828c9e2ea37e645fd700bb3c98314f5d5f.jpg"></article>]]></description>
+            <link>http://www.tagblatt.ch/nachrichten/kultur/kultur-tb/Ein-Leben-fuers-Showbiz;art41,2871660</link>
+            <guid isPermaLink="false">f2c525f7-06f8-4ea1-8f51-07d62507da55</guid>
+            <pubDate>Mon, 07 Mar 2016 21:23:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA["Jedermann": Sogar der Tod hat falsche Brüste]]></title>
             <description><![CDATA[<article><h1>"Jedermann": Sogar der Tod hat falsche Brüste</h1><p>Erfurt. Geradezu filmdramatisches Pathos generiert das Orchestervorspiel - bis die Band einsetzt, in Alltagszwirn gewandete Jedermänner und -frauen die große Domstufenshowtreppe hinabtänzeln und mit ihrer Choreografie an jene Zeit erinnern, als, wer jung war, für Lang-"Hairiges" schwärmte: Irgendwo zwischen Hollywood und Broadway könnte dieses ubiquitäre "Spiel vom Sterben des reichen Mannes" angesiedelt sein, doch liegt das nicht nur geografisch meilenweit fern.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c87105595172b3b0803575ffa8470a5e49fccbf.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.tagblatt.ch/ostschweiz/stgallen/rorschach/tb-ot08/Sogar-Brian-May-wirbt-fuer-sie;art2889,3737385</link>
             <guid isPermaLink="false">56dd9be0-aa45-4b30-85a7-7b1603442ee2</guid>
             <pubDate>Mon, 07 Mar 2016 18:54:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bejubelte Premiere des Musicals "City of Angels" am Bielefelder Theater]]></title>
-            <description><![CDATA[<article><h1>Bejubelte Premiere des Musicals "City of Angels" am Bielefelder Theater</h1><p>Bielefeld. Eine Femme fatale rauscht ins schäbige Büro von Privatdetektiv Stone. Er soll ihre verschwundene Stieftochter finden. Dass die in Unschuldsweiß gehüllte Lady Ärger bedeutet, spürt der abgeklärte Zyniker instinktiv. Aber lässt er die Finger davon? Natürlich nicht. Ihr Scheck ist stärker als sein Zweifel. Die Frau tritt ab, doch was ist das?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ec42907a68aba43296ed141c343a544c55107ca.jpg"></article>]]></description>
-            <link>http://www.nw.de/nachrichten/kultur/8524544_Bejubelte-Premiere-des-Musicals-City-of-Angels-am-Bielefelder-Theater.html</link>
-            <guid isPermaLink="false">da468b64-1b01-460f-bbb8-d888bff8bd7f</guid>
-            <pubDate>Mon, 07 Mar 2016 14:31:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
