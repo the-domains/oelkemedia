@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://america.pink'
-  name: America
-  favicon: 'http://america.pink/favicon.ico'
-  domain: america.pink
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://america.pink/brigitte-oelke_755199.html'
+inLanguage: en
+starred: false
 keywords:
   - brigitte
   - oelke
@@ -18,17 +17,20 @@ keywords:
   - hyde
   - rock
 description: "Brigitte Oelke's affection for music started very early in her life. Her mother was the leader of the children's choir at the St. Gallen Stadttheater, in which Brigitte took part herself. Furthermore, she learnt to play multiple instruments but nevertheless, singing was her greatest passion. A friend of the family, Prof."
-inLanguage: en
+datePublished: '2016-03-07T02:32:06.869Z'
+dateModified: '2016-03-07T02:31:04.126Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://america.pink/brigitte-oelke_755199.html'
 title: Brigitte Oelke
-datePublished: '2016-03-07T02:30:57.977Z'
-dateModified: '2016-03-07T02:26:22.939Z'
 sourcePath: _posts/2016-03-07-brigitte-oelke.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: America
+  domain: america.pink
+  url: 'http://america.pink'
+  favicon: 'http://america.pink/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
