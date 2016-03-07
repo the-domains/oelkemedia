@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://thepickde.wordpress.com/2015/03/26/cd-check-the-private-session-musicals-vol-1-von-brigitte-oelke/'
 inLanguage: de
-starred: false
+starred: true
 keywords: []
 description: 'Weltweit haben Brigitte Oelke mehrere Millionen Menschen live auf der Bühne erlebt. Zählt man ihre TV-Präsenz hinzu, landet man schnell im zweistelligen Millionenbereich. Ihre unverwechselbare Stimme und ihr beeindruckender Stimmumfang sind ihr Markenzeichen - wenn man mal von dem roten Schopf absieht. Brigitte Oelke ist bekannt als eine der besten Beltstimmen unserer Zeit und eine Bereicherung für...'
-datePublished: '2016-03-07T12:03:14.593Z'
-dateModified: '2016-03-07T12:03:05.366Z'
+datePublished: '2016-03-07T21:05:16.835Z'
+dateModified: '2016-03-07T21:05:10.006Z'
 author:
   - name: thepickde
     url: 'https://thepickde.wordpress.com/author/thepickde/'
