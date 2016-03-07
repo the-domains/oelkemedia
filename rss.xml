@@ -4,8 +4,15 @@
         <description><![CDATA[Brigitte Oelke in den Medien]]></description>
         <link>https://thegrid.ai/oelkemedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 14:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 14:20:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oelkemedia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Opernnetz - Zeitschrift fuer Musiktheater und Oper]]></title>
+            <description><![CDATA[<article><h1>Opernnetz - Zeitschrift fuer Musiktheater und Oper</h1><p>zurück Leserbrief Rockmusik auf der Theaterbühne bricht mit bekannten Hörgewohnheiten, auch wenn The Who's Tommy schon ein paar Jahrzehnte auf dem Buckel hat. Selbst die Musical-Version stammt aus den frühen 1990-er Jahren des vergangenen Jahrhunderts. Doch auch sie bietet in bester The-Who-Manier elektrische Gitarren statt Violinen, einen feisten elektrischen Bass und das etwas unorthodoxe Hornspiel, das John Entwistle in die Rockmusik mitbrachte.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/28de48928e5a56a0ae5e878c452d316987b2ad13.jpg"></article>]]></description>
+            <link>http://www.opernnetz.de/Alt/seiten/rezensionen/bie_who_eic_120923.htm</link>
+            <guid isPermaLink="false">68598535-6f24-4d48-9969-161b604cb734</guid>
+            <pubDate>Mon, 07 Mar 2016 14:19:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ein Leben für's Showbiz]]></title>
             <description><![CDATA[<article><h1>Ein Leben für's Showbiz</h1><p>Brigitte Oelke ist Mama Morton im Musical CHICAGO</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/193b26828c9e2ea37e645fd700bb3c98314f5d5f.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.derwesten.de/staedte/essen/die-koenigin-darf-krallen-zeigen-id8000587.html</link>
             <guid isPermaLink="false">3613cf3b-77b0-466e-b148-20aeb12294b0</guid>
             <pubDate>Mon, 07 Mar 2016 11:56:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rebellion der Gitarrenkids]]></title>
-            <description><![CDATA[<article><h1>Rebellion der Gitarrenkids</h1><p>Wir befinden uns in einem fernen Jahrhundert. Der Mega-Konzern Globalsoft beherrscht den Planeten, der Gagaismus hat die Welt erobert. Plastik-Pop ist die einzige legale Musikrichtung, Rock'n'Roll ist tot, Instrumente sind verboten. Nur ein paar versprengte Rebellen, die sich Bohemians nennen, leisten noch Widerstand. Sie versuchen verzweifelt, die Erinnerung an die Gitarrenmusik wachzuhalten.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c30b3d1335c6a988a15bf8e672490597f5085062.jpg"></article>]]></description>
-            <link>http://www.tagesspiegel.de/kultur/we-will-rock-you-rebellion-der-gitarrenkids-/1963412.html</link>
-            <guid isPermaLink="false">ff0479f1-2b5c-4358-9eee-65bae94f5fd7</guid>
-            <pubDate>Mon, 07 Mar 2016 11:55:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
