@@ -7,8 +7,8 @@ inLanguage: de
 starred: false
 keywords: []
 description: 'Brigitte Oelke ist die Diva vom Dienst. Auf den Musicalbühnen rockt, singt und tanzt die in St. Gallen geborene Wahl-Berlinerin seit 20 Jahren in Haupt- und Titelrollen. Ob als Evita, als Anita in "West Side Story" oder als Rebecca im "Tanz der Vampire", in kleinen Häusern und kommerziellen Musicalpalästen.'
-datePublished: '2016-03-07T01:40:35.857Z'
-dateModified: '2016-03-07T01:29:41.797Z'
+datePublished: '2016-03-07T14:25:23.253Z'
+dateModified: '2016-03-07T14:25:17.554Z'
 author: []
 related: []
 app_links: []
