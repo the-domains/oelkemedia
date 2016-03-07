@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.gettyimages.de'
-  name: Getty Images
-  favicon: 'http://www.gettyimages.de/favicon.ico'
-  domain: www.gettyimages.de
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.gettyimages.de/detail/nachrichtenfoto/barbara-obermeier-brigitte-oelke-ana-milva-gomes-and-nachrichtenfoto/469890416#'
+inLanguage: en
+starred: false
 keywords:
   - raimund
   - mozart
@@ -18,17 +17,20 @@ keywords:
   - brigitte
   - musical
 description: "Barbara Obermeier, Brigitte Oelke, Ana Milva Gomes and Franziska Schuster pose for a photograph during the 'MOZART! - das Musical' press conference at Raimund Theater on April 14, 2015 in Vienna,... Erstklassige Nachrichtenbilder in hoher Auflösung bei Getty Images"
-inLanguage: en
+datePublished: '2016-03-07T01:41:20.614Z'
+dateModified: '2016-03-07T01:40:32.297Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.gettyimages.de/detail/nachrichtenfoto/barbara-obermeier-brigitte-oelke-ana-milva-gomes-and-nachrichtenfoto/469890416#'
 title: 'Barbara Obermeier, Brigitte Oelke, Ana Milva Gomes and Franziska...'
-datePublished: '2016-03-07T01:40:26.037Z'
-dateModified: '2016-03-07T01:07:30.856Z'
 sourcePath: _posts/2016-03-07-barbara-obermeier-brigitte-oelke-ana-milva-gomes-and-franz.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Getty Images
+  domain: www.gettyimages.de
+  url: 'http://www.gettyimages.de'
+  favicon: 'http://www.gettyimages.de/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
