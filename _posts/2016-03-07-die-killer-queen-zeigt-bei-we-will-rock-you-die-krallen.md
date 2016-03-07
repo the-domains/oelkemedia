@@ -7,20 +7,20 @@ inLanguage: de
 starred: false
 keywords: []
 description: 'Essen. Für Brigitte Oelke ist die „Killer Queen" seit Jahren eine absolute „Traumrolle". Die Queen-Songs hat sie schließlich schon als 15-Jährige mitgesungen. Bei der Neuauflage des Musicals "We Will Rock You" auf der Colosseum-Bühne in Essen ist sie alles andere als niedlich und süß. Die „Killer Queen" kommt auf Krücken zum Gespräch.'
-datePublished: '2016-03-07T11:56:54.748Z'
-dateModified: '2016-03-07T11:56:14.711Z'
+datePublished: '2016-03-07T16:58:54.334Z'
+dateModified: '2016-03-07T16:58:51.298Z'
 author: []
 related: []
 app_links: []
 title: 'Die Killer-Queen zeigt bei "We Will Rock You" die Krallen'
+sourcePath: _posts/2016-03-07-die-killer-queen-zeigt-bei-we-will-rock-you-die-krallen.md
+published: true
 authors: []
 publisher:
   name: WAZ
   domain: www.derwesten.de
   url: 'http://www.derwesten.de'
   favicon: 'http://www.derwesten.de/resources/27287/ver1-0/img/favicon_waz.ico'
-sourcePath: _posts/2016-03-07-die-killer-queen-zeigt-bei-we-will-rock-you-die-krallen.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
