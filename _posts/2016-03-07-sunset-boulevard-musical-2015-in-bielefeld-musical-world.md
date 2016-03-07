@@ -7,8 +7,8 @@ inLanguage: de
 starred: false
 keywords: []
 description: 'Während sich Hamburg auf Sir Andrew Lloyd Webbers Musical-Fortsetzung des Phantoms der Oper Liebe Stirbt Nie vorbereitet, setzen die Stadttheater gerne auf ältere und freigegebene Webber-Klassiker, um ihre Häuser zu füllen. Gutes Beispiel ist die Charakterstudie der alternden Stummfilmdiva Norma Desmond, die ihre Rückkehr auf die Kinoleinwand plant.'
-datePublished: '2016-03-07T01:40:46.576Z'
-dateModified: '2016-03-07T01:39:09.605Z'
+datePublished: '2016-03-07T21:06:29.766Z'
+dateModified: '2016-03-07T21:03:58.291Z'
 author: []
 related: []
 app_links: []
