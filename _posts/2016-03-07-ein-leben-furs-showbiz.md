@@ -7,19 +7,19 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Tagblatt Online20. Februar 2012, 01:04 Uhr: Melissa King inszeniert und choreographiert Chicago mit glänzenden Darstellerinnen als virtuosen Tanz auf dem dünnen Eis der Unterhaltungsindustrie.'
-datePublished: '2016-03-07T14:17:46.309Z'
-dateModified: '2016-03-07T14:17:31.083Z'
+datePublished: '2016-03-07T16:12:57.371Z'
+dateModified: '2016-03-07T16:12:54.432Z'
 title: "Ein Leben für's Showbiz"
 author: []
+sourcePath: _posts/2016-03-07-ein-leben-furs-showbiz.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-07-ein-leben-furs-showbiz.md
-published: true
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cb348c0-5f32-4a1a-8af9-187f1be81aba.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/193b26828c9e2ea37e645fd700bb3c98314f5d5f.jpg)
