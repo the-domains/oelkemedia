@@ -7,7 +7,7 @@ inLanguage: de
 starred: false
 keywords: []
 description: 'Essen. Für Brigitte Oelke ist die „Killer Queen" seit Jahren eine absolute „Traumrolle". Die Queen-Songs hat sie schließlich schon als 15-Jährige mitgesungen. Bei der Neuauflage des Musicals "We Will Rock You" auf der Colosseum-Bühne in Essen ist sie alles andere als niedlich und süß. Die „Killer Queen" kommt auf Krücken zum Gespräch.'
-datePublished: '2016-03-07T11:56:43.467Z'
+datePublished: '2016-03-07T11:56:51.115Z'
 dateModified: '2016-03-07T11:56:14.711Z'
 author: []
 related: []
