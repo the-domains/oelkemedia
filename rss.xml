@@ -4,7 +4,7 @@
         <description><![CDATA[Brigitte Oelke in den Medien]]></description>
         <link>https://thegrid.ai/oelkemedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 21:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 22:49:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oelkemedia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ein Leben für's Showbiz]]></title>
@@ -49,6 +49,13 @@
             <pubDate>Mon, 07 Mar 2016 21:04:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Erfurt: Jedermann / Online Musik Magazin]]></title>
+            <description><![CDATA[<article><h1>Erfurt: Jedermann / Online Musik Magazin</h1><p>Bereits 2000 und 2001 präsentierten die DomStufen-Festspiele Erfurt auf den Domstufen am Domberg Hofmannsthals Jedermann. Der damalige Generalintendant Dietrich Taube erweiterte bei dieser Produktion den Theatertext durch Instrumental- und Vokalmusik von Johann Sebastian Bach. In diesem Jahr ist man einen Schritt weiter gegangen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a3f622a4ee0646575bb0808ee1b9f7e19c92a29.jpg"></article>]]></description>
+            <link>http://www.omm.de/veranstaltungen/festspiele2014/EF-2014-jedermann.html</link>
+            <guid isPermaLink="false">e3f57743-264f-4c68-9237-592e6feac461</guid>
+            <pubDate>Mon, 07 Mar 2016 22:48:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Showbühne - Interview - Bayern plus - Download, MP3, Video | Podcast | BR]]></title>
             <description><![CDATA[<article><h1>Showbühne - Interview - Bayern plus - Download, MP3, Video | Podcast | BR</h1><p>TV und Radio zum Mitnehmen - Mit den Podcasts und Downloads des BR können Sie TV- und Hörfunk-Sendungen zeitversetzt auf Ihrem Computer oder MP3-Player ansehen und anhören! Einfach kostenlos abonnieren und herunterladen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cfb06a98444776c26350f3f046a1bbd04f9719b1.gif"></article>]]></description>
             <link>http://www.br-online.de/podcast/mp3-download/bayern-plus/mp3-download-podcast-showbuehne-interview.shtml</link>
@@ -68,13 +75,6 @@
             <link>http://www.derwesten.de/staedte/essen/die-koenigin-darf-krallen-zeigen-id8000587.html</link>
             <guid isPermaLink="false">3613cf3b-77b0-466e-b148-20aeb12294b0</guid>
             <pubDate>Mon, 07 Mar 2016 16:58:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sogar Brian May wirbt für sie]]></title>
-            <description><![CDATA[<article><h1>Sogar Brian May wirbt für sie</h1><p>Brigitte Oelke fühlt sich auf der Bühne zu Hause.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f7041989cebefc6117ef8586317770ddaa9ee0e.jpg"></article>]]></description>
-            <link>http://www.tagblatt.ch/ostschweiz/stgallen/rorschach/tb-ot08/Sogar-Brian-May-wirbt-fuer-sie;art2889,3737385</link>
-            <guid isPermaLink="false">56dd9be0-aa45-4b30-85a7-7b1603442ee2</guid>
-            <pubDate>Mon, 07 Mar 2016 18:54:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
