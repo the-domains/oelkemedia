@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.badische-zeitung.de/rock-pop-vorschau/die-rolle-ihres-lebens--52820127.html'
 inLanguage: de
-starred: false
+starred: true
 keywords: []
 description: 'Die Musical-Sängerin Brigitte Oelke ist der Stargast bei der Rock Symphony Night des Orso in der Rothaus-Arena. Sechs Jahre lang wütete sie in fünf Städten als Killer Queen im Musical "We Will Rock You": Jetzt tritt die Sängerin Brigitte Oelke in Freiburg auf: in der Rock Symphony Night des Orso.'
-datePublished: '2016-03-07T01:33:39.390Z'
-dateModified: '2016-03-07T01:33:34.920Z'
+datePublished: '2016-03-07T21:06:10.399Z'
+dateModified: '2016-03-07T21:04:21.193Z'
 author: []
 related: []
 app_links: []
