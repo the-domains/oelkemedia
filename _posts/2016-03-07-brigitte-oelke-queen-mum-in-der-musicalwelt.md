@@ -7,20 +7,20 @@ inLanguage: de
 starred: false
 keywords: []
 description: '19. April 2013 - 18:27 Uhr Die gebürtige Schweizerin Brigitte Oelke spielt seit neun Jahren in „We will rock you" mit - derzeit im Colosseum Essen. Essen. Brigitte Oelke ist zur bösen Fee verdammt. Sie ist die düstere Diva vom Dienst. Zumindest auf Musicalbühnen rockt, singt und tanzt die in St.'
-datePublished: '2016-03-07T00:59:56.516Z'
-dateModified: '2016-03-07T00:57:30.111Z'
+datePublished: '2016-03-07T01:28:03.255Z'
+dateModified: '2016-03-07T01:00:23.566Z'
 author: []
 related: []
 app_links: []
 title: 'Brigitte Oelke: „Queen Mum" in der Musicalwelt'
+sourcePath: _posts/2016-03-07-brigitte-oelke-queen-mum-in-der-musicalwelt.md
+published: true
 authors: []
 publisher:
   name: Westdeutsche Zeitung
   domain: www.wz.de
   url: 'http://www.wz.de'
   favicon: 'http://www.wz.de/img/wz/favicon.ico'
-sourcePath: _posts/2016-03-07-brigitte-oelke-queen-mum-in-der-musicalwelt.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
