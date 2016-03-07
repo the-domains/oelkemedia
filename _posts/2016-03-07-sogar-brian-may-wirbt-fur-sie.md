@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Rote Haare, kraftvolle Stimme und riesige Bühnenpräsenz: Das sind die Markenzeichen von Brigitte Oelke. Sie ist auf der Musicalbühne zu Hause und kann dank ihrer Paraderolle als Killer Queen ihre einstigen Idole zu ihren Fans zählen.'
-datePublished: '2016-03-07T14:18:26.501Z'
-dateModified: '2016-03-07T14:18:21.988Z'
+datePublished: '2016-03-07T16:13:43.240Z'
+dateModified: '2016-03-07T16:13:39.926Z'
 author: []
 title: Sogar Brian May wirbt für sie
 sourcePath: _posts/2016-03-07-sogar-brian-may-wirbt-fur-sie.md
