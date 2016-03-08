@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: This site is powered by
-datePublished: '2016-03-08T13:25:45.479Z'
-dateModified: '2016-03-08T13:25:42.852Z'
+datePublished: '2016-03-08T13:51:47.909Z'
+dateModified: '2016-03-08T13:51:44.849Z'
 title: Impressum
 author: []
 sourcePath: _posts/2016-03-08-impressum.md
@@ -22,11 +22,12 @@ url: impressum/index.html
 _type: WebPage
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/581bc65e94da919583059d3961382d8e8efc724f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a96447b6fcea48ea2c42326018e5579a7fcba967.jpg)
 
 This site is powered by
 
- Inh. Robert Würges    
+ Robert Würges    
+StagePeople  
 Holsteinische Str. 18    
 D-12161 Berlin   
  GERMANY T    
