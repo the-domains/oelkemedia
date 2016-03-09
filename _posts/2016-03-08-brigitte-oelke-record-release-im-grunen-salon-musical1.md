@@ -6,13 +6,13 @@ isBasedOnUrl: 'http://www.musical1.de/news/brigitte-oelke-record-release-im-grue
 inLanguage: de
 starred: false
 keywords: []
-description: 'Freunde, Kollegen, Wegbegleiter und treue Fans waren nach Berlin gekommen, um Brigitte Oelkes neues Solo-Album live kennen zu lernen. In der intimen Wohnzimmer-Atmosphäre des Grünen Salons präsentierte die Musical-Darstellerin zunächst ihre 14 neuen Songs, anschließend gab es die Gelegenheit zum Gespräch mit der Künstlerin und die Chance, ein Autogramm zu ergattern.'
-datePublished: '2016-03-09T02:38:57.419Z'
-dateModified: '2016-03-09T02:38:47.988Z'
+description: ''
+datePublished: '2016-03-09T02:47:46.172Z'
+dateModified: '2016-03-09T02:46:54.376Z'
 author: []
 related: []
 app_links: []
-title: 'Brigitte Oelke: Record Release im Grünen Salon - Musical1'
+title: The Private Session - Musicals Vol. 1
 sourcePath: _posts/2016-03-08-brigitte-oelke-record-release-im-grunen-salon-musical1.md
 published: true
 authors: []
