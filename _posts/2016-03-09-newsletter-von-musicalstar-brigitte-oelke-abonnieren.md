@@ -7,20 +7,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: Abonnieren oder kündigen Sie hier den Newsletter von Musicalstar Brigitte Oelke
-datePublished: '2016-03-09T02:01:24.141Z'
-dateModified: '2016-03-09T02:01:09.888Z'
+datePublished: '2016-03-09T02:47:28.713Z'
+dateModified: '2016-03-09T02:47:20.868Z'
 author: []
 related: []
 app_links: []
 title: Newsletter von Musicalstar Brigitte Oelke abonnieren
+sourcePath: _posts/2016-03-09-newsletter-von-musicalstar-brigitte-oelke-abonnieren.md
+published: true
 authors: []
 publisher:
   name: Brigitteoelke
   domain: brigitteoelke.com
   url: 'http://brigitteoelke.com'
   favicon: 'http://www.brigitteoelke.com/favicon.ico'
-sourcePath: _posts/2016-03-09-newsletter-von-musicalstar-brigitte-oelke-abonnieren.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
