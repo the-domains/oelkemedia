@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://brigitteoelke.com/Newsletter/'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Abonnieren oder kündigen Sie hier den Newsletter von Musicalstar Brigitte Oelke
-datePublished: '2016-03-10T13:24:41.535Z'
-dateModified: '2016-03-10T13:24:36.734Z'
+datePublished: '2016-03-10T13:24:58.030Z'
+dateModified: '2016-03-10T13:24:52.289Z'
 author: []
 related: []
 app_links: []
