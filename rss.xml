@@ -4,7 +4,7 @@
         <description><![CDATA[Brigitte Oelke in den Medien]]></description>
         <link>https://thegrid.ai/oelkemedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 22:34:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2016 09:22:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oelkemedia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Newsletter von Musicalstar Brigitte Oelke abonnieren]]></title>
@@ -56,6 +56,13 @@
             <pubDate>Mon, 07 Mar 2016 21:04:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[„Jedermann" als Rockoper in Erfurt]]></title>
+            <description><![CDATA[<article><h1>„Jedermann" als Rockoper in Erfurt</h1><p>Die Domstufen-Festspiele in Erfurt haben Hugo von Hofmannsthals Schauspiel „Jedermann" eine Rockoper zur Seite gestellt. Und zugleich mit der Uraufführung eine moderne Sicht auf das uralte Thema vom Sterben des reichen Mannes Jedermann (Andreas Lichtenberger) gewagt - und größtenteils gewonnen. Die rund 2000 Premierengäste applaudierten am Donnerstagabend nach jeder größeren Gesangsszene und dankten mit langem Schlussapplaus.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ebaead874f8d6e78128dda605e855901a82bc3ac.jpg"></article>]]></description>
+            <link>http://www.focus.de/regional/erfurt/der-tod-ist-weiblich-jedermann-als-rockoper-in-erfurt_id_3983490.html</link>
+            <guid isPermaLink="false">e85c274f-1884-485e-aabb-902bbe9669c0</guid>
+            <pubDate>Fri, 11 Mar 2016 09:22:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Das Doku-Event: We are the Champions - 40 Jahre Queen]]></title>
             <description><![CDATA[<article><h1>Das Doku-Event: We are the Champions - 40 Jahre Queen</h1><p>Das Doku-Event „We Are The Champions - 40 Jahre Queen" Mit Songs wie „Bohemian Rhapsody" und „We Are The Champions" schrieben sie Musikgeschichte: Queen. Insgesamt verkaufte die britische Band bestehend aus Sänger Freddie Mercury, Gitarrist Brian May, Schlagzeuger Roger Taylor und Bassist John Deacon im Laufe ihrer Karriere weltweit über 300 Millionen Tonträger, darunter 14 Nummer-eins-Alben und halten mit „Greatest Hits I" bis heute den Rekord des meistverkauften Albums in Großbritannien.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/89c0632530a3b95798663a8992d837ecc1fa184c.jpg"></article>]]></description>
             <link>http://www.vox.de/cms/das-doku-event-we-are-the-champions-40-jahre-queen-1645374.html</link>
@@ -68,13 +75,6 @@
             <link>http://www.musical1.de/news/brigitte-oelke-record-release-im-gruenen-salon/</link>
             <guid isPermaLink="false">fc78d56b-7cb2-4ff6-b1b7-5c37c5d3e893</guid>
             <pubDate>Wed, 09 Mar 2016 11:56:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Erfurt: Jedermann / Online Musik Magazin]]></title>
-            <description><![CDATA[<article><h1>Erfurt: Jedermann / Online Musik Magazin</h1><p>Bereits 2000 und 2001 präsentierten die DomStufen-Festspiele Erfurt auf den Domstufen am Domberg Hofmannsthals Jedermann. Der damalige Generalintendant Dietrich Taube erweiterte bei dieser Produktion den Theatertext durch Instrumental- und Vokalmusik von Johann Sebastian Bach. In diesem Jahr ist man einen Schritt weiter gegangen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a3f622a4ee0646575bb0808ee1b9f7e19c92a29.jpg"></article>]]></description>
-            <link>http://www.omm.de/veranstaltungen/festspiele2014/EF-2014-jedermann.html</link>
-            <guid isPermaLink="false">e3f57743-264f-4c68-9237-592e6feac461</guid>
-            <pubDate>Mon, 07 Mar 2016 22:48:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
