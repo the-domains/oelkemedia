@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-16T01:27:17.970Z'
-dateModified: '2016-03-16T00:57:13.159Z'
+datePublished: '2016-03-16T01:39:06.847Z'
+dateModified: '2016-03-16T01:38:56.270Z'
 author: []
 title: Melodia stellt Rekord auf
+sourcePath: _posts/2016-03-16-melodia-stellt-rekord-auf.md
+published: true
 authors: []
 publisher:
   name: tagblatt.ch
   domain: www.tagblatt.ch
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-melodia-stellt-rekord-auf.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
