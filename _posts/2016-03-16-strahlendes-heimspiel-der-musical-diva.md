@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.tagblatt.ch/nachrichten/kultur/tb-sk/Strahlendes-Heimspiel-der-Musical-Diva;art188,3287230'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-16T01:37:41.470Z'
-dateModified: '2016-03-16T01:37:38.492Z'
+datePublished: '2016-03-16T01:37:57.892Z'
+dateModified: '2016-03-16T01:37:51.226Z'
 author: []
 title: Strahlendes Heimspiel der Musical-Diva
 sourcePath: _posts/2016-03-16-strahlendes-heimspiel-der-musical-diva.md
