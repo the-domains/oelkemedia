@@ -4,8 +4,15 @@
         <description><![CDATA[Brigitte Oelke in den Medien]]></description>
         <link>https://thegrid.ai/oelkemedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 01:37:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 01:37:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oelkemedia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Strahlendes Heimspiel der Musical-Diva]]></title>
+            <description><![CDATA[<article><h1>Strahlendes Heimspiel der Musical-Diva</h1><p>Schon nach wenigen Takten hat sie die Leute in der Tasche. Brigitte Oelke schwingt ihre roten Locken, singt aus voller Kehle, und alle klatschen mit. Es ist der erste Solo-Auftritt der Musicalsängerin in ihrer Heimatstadt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6f5571af36edc79b1769a7a37e8c3be443360c9.jpg"></article>]]></description>
+            <link>http://www.tagblatt.ch/nachrichten/kultur/tb-sk/Strahlendes-Heimspiel-der-Musical-Diva;art188,3287230</link>
+            <guid isPermaLink="false">4d376284-506d-4d83-80e3-289fca0199d2</guid>
+            <pubDate>Wed, 16 Mar 2016 01:37:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Newsletter von Musicalstar Brigitte Oelke abonnieren]]></title>
             <description><![CDATA[<article><h1>Newsletter von Musicalstar Brigitte Oelke abonnieren</h1><p>Abonnieren oder kündigen Sie hier den Newsletter von Musicalstar Brigitte Oelke</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3bb44fab0dd086e5dc593c049b07ffbea8b632e8.jpg"></article>]]></description>
@@ -61,13 +68,6 @@
             <link>http://www.tagblatt.ch/ostschweiz/stgallen/rorschach/tb-ot08/Mitreissende-Musical-Show;art2889,3738740</link>
             <guid isPermaLink="false">17203d02-8054-4281-8279-4398ab36ae1b</guid>
             <pubDate>Wed, 16 Mar 2016 01:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Strahlendes Heimspiel der Musical-Diva]]></title>
-            <description><![CDATA[<article><h1>Strahlendes Heimspiel der Musical-Diva</h1><p>Schon nach wenigen Takten hat sie die Leute in der Tasche. Brigitte Oelke schwingt ihre roten Locken, singt aus voller Kehle, und alle klatschen mit. Es ist der erste Solo-Auftritt der Musicalsängerin in ihrer Heimatstadt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6f5571af36edc79b1769a7a37e8c3be443360c9.jpg"></article>]]></description>
-            <link>http://www.tagblatt.ch/nachrichten/kultur/tb-sk/Strahlendes-Heimspiel-der-Musical-Diva;art188,3287230</link>
-            <guid isPermaLink="false">4d376284-506d-4d83-80e3-289fca0199d2</guid>
-            <pubDate>Wed, 16 Mar 2016 01:37:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
