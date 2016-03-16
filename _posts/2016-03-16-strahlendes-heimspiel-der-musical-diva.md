@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-16T01:27:18.183Z'
-dateModified: '2016-03-16T00:47:53.733Z'
+datePublished: '2016-03-16T01:37:41.470Z'
+dateModified: '2016-03-16T01:37:38.492Z'
 author: []
 title: Strahlendes Heimspiel der Musical-Diva
+sourcePath: _posts/2016-03-16-strahlendes-heimspiel-der-musical-diva.md
+published: true
 authors: []
 publisher:
   name: tagblatt.ch
   domain: www.tagblatt.ch
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-strahlendes-heimspiel-der-musical-diva.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
