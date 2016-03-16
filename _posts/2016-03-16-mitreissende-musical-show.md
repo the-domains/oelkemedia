@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-16T01:27:18.182Z'
-dateModified: '2016-03-16T00:46:22.398Z'
+datePublished: '2016-03-16T01:36:00.894Z'
+dateModified: '2016-03-16T01:35:57.330Z'
 author: []
 title: Mitreissende Musical-Show
+sourcePath: _posts/2016-03-16-mitreissende-musical-show.md
+published: true
 authors: []
 publisher:
   name: tagblatt.ch
   domain: www.tagblatt.ch
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-mitreissende-musical-show.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
