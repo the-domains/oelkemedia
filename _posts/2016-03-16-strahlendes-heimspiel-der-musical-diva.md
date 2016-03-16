@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-16T01:37:57.892Z'
-dateModified: '2016-03-16T01:37:51.226Z'
+datePublished: '2016-03-16T01:41:20.025Z'
+dateModified: '2016-03-16T01:41:17.112Z'
 author: []
 title: Strahlendes Heimspiel der Musical-Diva
 sourcePath: _posts/2016-03-16-strahlendes-heimspiel-der-musical-diva.md
