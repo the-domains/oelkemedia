@@ -4,7 +4,7 @@
         <description><![CDATA[Brigitte Oelke in den Medien]]></description>
         <link>https://thegrid.ai/oelkemedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 01:28:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 01:28:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oelkemedia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Newsletter von Musicalstar Brigitte Oelke abonnieren]]></title>
@@ -56,13 +56,6 @@
             <pubDate>Mon, 07 Mar 2016 21:04:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rosy Zeiter feiert mit Konzert]]></title>
-            <description><![CDATA[<article><h1>Rosy Zeiter feiert mit Konzert</h1><p>Mit dem gemeinsamen Konzert ihrer Kinder und der Big Band Atlantis hat sich die Thaler Musikerin Rosy Zeiter zum 75. Geburtstag einen Wunsch erfüllt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b596f85520f9a7221532bcce955ca465fc8de1d8.jpg"></article>]]></description>
-            <link>http://www.tagblatt.ch/ostschweiz/stgallen/rheintal/rt-pi/Rosy-Zeiter-feiert-mit-Konzert;art169,4243816</link>
-            <guid isPermaLink="false">3d65a7de-9c01-416a-823d-3d286ed75813</guid>
-            <pubDate>Wed, 16 Mar 2016 01:27:18 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mitreissende Musical-Show]]></title>
             <description><![CDATA[<article><h1>Mitreissende Musical-Show</h1><p>Die Melodia überzeugt vor ausverkaufter Wartegghalle. Das anspruchsvolle Programm aus vierzehn Musicals bietet schaurige bis zauberhafte, ruhige bis ausgelassene Töne, ein grosses Staraufgebot und ein energiegeladenes Orchester.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/46662e259e4defb44ba5891955e4fb4d6b012b07.jpg"></article>]]></description>
             <link>http://www.tagblatt.ch/ostschweiz/stgallen/rorschach/tb-ot08/Mitreissende-Musical-Show;art2889,3738740</link>
@@ -75,6 +68,13 @@
             <link>http://www.tagblatt.ch/nachrichten/kultur/tb-sk/Strahlendes-Heimspiel-der-Musical-Diva;art188,3287230</link>
             <guid isPermaLink="false">4d376284-506d-4d83-80e3-289fca0199d2</guid>
             <pubDate>Wed, 16 Mar 2016 01:27:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Melodia stellt Rekord auf]]></title>
+            <description><![CDATA[<article><h1>Melodia stellt Rekord auf</h1><p>Brigitte Oelke und Thomas Straumann bringen die Stimmung zum Kochen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d7096af3a0e339f6567667eb9a43a9f2eb395ea.jpg"></article>]]></description>
+            <link>http://www.tagblatt.ch/ostschweiz/stgallen/rorschach/tb-ot08/Melodia-stellt-Rekord-auf;art2889,1343622</link>
+            <guid isPermaLink="false">07c0e4de-665b-4ea1-bfd5-d1f2b3ca417b</guid>
+            <pubDate>Wed, 16 Mar 2016 01:27:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
