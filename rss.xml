@@ -4,7 +4,7 @@
         <description><![CDATA[Brigitte Oelke in den Medien]]></description>
         <link>https://thegrid.ai/oelkemedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 09:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 01:26:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oelkemedia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Newsletter von Musicalstar Brigitte Oelke abonnieren]]></title>
@@ -56,6 +56,13 @@
             <pubDate>Mon, 07 Mar 2016 21:04:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Königliche Musik wärmt das Herz]]></title>
+            <description><![CDATA[<article><h1>Königliche Musik wärmt das Herz</h1><p>Diese Musik war das Beste, was einem am Freitagabend unter Arbons freiem Himmel passieren konnte. Denn das Sinfonische Orchester Arbon zeigte mit «Orchestra rocks Queen» nicht nur, dass es keine musikalischen Berührungsängste kennt, sondern es vermochte dem frierenden Publikum auch einzuheizen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a5b9c3b078877e54263a28d48d551f688219d28.jpg"></article>]]></description>
+            <link>http://www.tagblatt.ch/ostschweiz/thurgau/arbon/tb-ar/Koenigliche-Musik-waermt-das-Herz;art120104,3923407</link>
+            <guid isPermaLink="false">2b4ccfa1-eced-464f-897b-fe94068b69e4</guid>
+            <pubDate>Wed, 16 Mar 2016 01:26:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[„Jedermann" als Rockoper in Erfurt]]></title>
             <description><![CDATA[<article><h1>„Jedermann" als Rockoper in Erfurt</h1><p>Die Domstufen-Festspiele in Erfurt haben Hugo von Hofmannsthals Schauspiel „Jedermann" eine Rockoper zur Seite gestellt. Und zugleich mit der Uraufführung eine moderne Sicht auf das uralte Thema vom Sterben des reichen Mannes Jedermann (Andreas Lichtenberger) gewagt - und größtenteils gewonnen. Die rund 2000 Premierengäste applaudierten am Donnerstagabend nach jeder größeren Gesangsszene und dankten mit langem Schlussapplaus.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ebaead874f8d6e78128dda605e855901a82bc3ac.jpg"></article>]]></description>
             <link>http://www.focus.de/regional/erfurt/der-tod-ist-weiblich-jedermann-als-rockoper-in-erfurt_id_3983490.html</link>
@@ -68,13 +75,6 @@
             <link>http://www.vox.de/cms/das-doku-event-we-are-the-champions-40-jahre-queen-1645374.html</link>
             <guid isPermaLink="false">ba14db97-55c4-4959-8cf7-0faf4aef2f26</guid>
             <pubDate>Thu, 10 Mar 2016 22:33:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Private Session - Musicals Vol. 1]]></title>
-            <description><![CDATA[<article><h1>The Private Session - Musicals Vol. 1</h1><p>Bericht vom Release-Konzert im »Grüner Salon« der Volksbühne Berlin</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/366ffadd6286f522539f2fb41c201e86826f290a.jpg"></article>]]></description>
-            <link>http://www.musical1.de/news/brigitte-oelke-record-release-im-gruenen-salon/</link>
-            <guid isPermaLink="false">fc78d56b-7cb2-4ff6-b1b7-5c37c5d3e893</guid>
-            <pubDate>Wed, 09 Mar 2016 11:56:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
