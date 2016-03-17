@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.tagblatt.ch/nachrichten/kultur/kultur-tb/Ein-Leben-fuers-Showbiz;art41,2871660'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-17T01:36:27.614Z'
-dateModified: '2016-03-17T01:36:27.234Z'
+datePublished: '2016-03-17T01:42:15.884Z'
+dateModified: '2016-03-17T01:42:11.480Z'
 title: Ein Leben fürs Showbiz
 author: []
 sourcePath: _posts/2016-03-16-ein-leben-furs-showbiz.md
