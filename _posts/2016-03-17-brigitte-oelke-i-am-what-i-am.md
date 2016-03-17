@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=t6gCZjIqxho'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'ORSO Orchestra & Choral Society feat. Brigitte Oelke // Rock Symphony Night 2013 // Friedrichstadt Palast, Berlin // Musik & Text: Jerry Herman'
-datePublished: '2016-03-17T14:25:02.317Z'
-dateModified: '2016-03-17T14:24:59.474Z'
+datePublished: '2016-03-17T14:27:59.273Z'
+dateModified: '2016-03-17T14:27:54.955Z'
 author:
   - name: Brigitte Oelke
     url: 'https://www.youtube.com/user/oelkemusic'
