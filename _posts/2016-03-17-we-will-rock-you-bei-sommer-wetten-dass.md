@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Fulminanter Auftritt, bombastischer Rock Sound: Heute ließ das Ensemble von WE WILL ROCK YOU die Stierkampfarena von Palma de Mallorca erzittern und schickte brandgefährliche Rock-Riffs und elektrisierende Vocals direkt aus dem „Coliseo Balear" über den Äther nach Deutschland.Die war die letzte Sendung mit Moderator Thomas Gottschalk.'
-datePublished: '2016-03-17T14:34:49.309Z'
-dateModified: '2016-03-17T14:34:43.822Z'
+datePublished: '2016-03-17T16:43:23.830Z'
+dateModified: '2016-03-17T16:43:19.787Z'
 author:
   - name: BB Promotion GmbH
     url: 'https://www.youtube.com/user/BBPromotionGmbH'
