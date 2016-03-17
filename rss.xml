@@ -4,7 +4,7 @@
         <description><![CDATA[Brigitte Oelke in den Medien]]></description>
         <link>https://thegrid.ai/oelkemedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 02:46:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 11:45:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oelkemedia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Brigitte Oelkes CD "The Private Session"]]></title>
@@ -26,6 +26,13 @@
             <link>http://www.musicals-online.com/musicals-online/Brigitte_Oelke.html</link>
             <guid isPermaLink="false">ef734711-5c69-492b-af52-da41da0f49a3</guid>
             <pubDate>Thu, 17 Mar 2016 00:58:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WWRY Benissimo TV Promo]]></title>
+            <description><![CDATA[<article><h1>WWRY Benissimo TV Promo</h1><p>The Original Swiss cast of We Will Rock You performing a medley of Radio Gaga, Another One Bites the Dust, We Will Rock You and We Are the Champions on Benissimo on SF1. Features Serkan Kaya as Galileo and Brigitte Oelke as Killer Queen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/570dbe50a9689372badd07bc739b55624f730cd0.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=pazYaHwDDw8</link>
+            <guid isPermaLink="false">c19017b6-f7e8-41c9-b039-243d48b4266f</guid>
+            <pubDate>Thu, 17 Mar 2016 11:45:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ein Leben fürs Showbiz]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.badische-zeitung.de/rock-pop-vorschau/die-rolle-ihres-lebens--52820127.html</link>
             <guid isPermaLink="false">aedcc0b7-26f7-496f-851d-0a6761ac38cd</guid>
             <pubDate>Mon, 07 Mar 2016 21:06:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ein Wiedersehen auf der Bühne]]></title>
-            <description><![CDATA[<article><h1>Ein Wiedersehen auf der Bühne</h1><p>Das Konzert war ein alter Traum von Mutter Rosy Zeiter, die sich nichts sehnlicher wünschte, als mit ihrer musikbegabten, mit Verlaub: musikbesessenen Familie vereint auf der Bühne zu stehen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7dbee48f7a530048a7fd8e9ece8ed6d6e4d2d45c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/oelkemedia/ein-wiedersehen-auf-der-buhne/index.html</link>
-            <guid isPermaLink="false">725b6499-c69f-40f9-afd0-06bf6cdf776e</guid>
-            <pubDate>Thu, 17 Mar 2016 01:41:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
