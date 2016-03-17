@@ -17,8 +17,8 @@ keywords:
   - freddie
   - tributes
 description: 'Brigitte Oelke in der VOX-Dokumentation "40 Jahre Queen"'
-datePublished: '2016-03-17T00:53:11.279Z'
-dateModified: '2016-03-17T00:53:04.654Z'
+datePublished: '2016-03-17T01:37:57.003Z'
+dateModified: '2016-03-17T01:37:54.186Z'
 author:
   - name: BB Promotion GmbH
     url: 'https://www.youtube.com/user/BBPromotionGmbH'
@@ -62,14 +62,14 @@ app_links:
     namespace: google
     type: ios
 title: We Will Rock You - 40 Jahre Queen
+sourcePath: _posts/2016-03-17-we-will-rock-you-40-jahre-queen.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-03-17-we-will-rock-you-40-jahre-queen.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
