@@ -4,7 +4,7 @@
         <description><![CDATA[Brigitte Oelke in den Medien]]></description>
         <link>https://thegrid.ai/oelkemedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 11:51:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 12:06:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oelkemedia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Brigitte Oelkes CD "The Private Session"]]></title>
@@ -26,6 +26,13 @@
             <link>http://www.musicals-online.com/musicals-online/Brigitte_Oelke.html</link>
             <guid isPermaLink="false">ef734711-5c69-492b-af52-da41da0f49a3</guid>
             <pubDate>Thu, 17 Mar 2016 00:58:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MOZART! - Behind the scenes 5 - "Cäcilia Weber" stellt sich vor]]></title>
+            <description><![CDATA[<article><h1>MOZART! - Behind the scenes 5 - "Cäcilia Weber" stellt sich vor</h1><p>Im Rahmen der Behind the Scenes Reihe zu «MOZART! - Das Musical» stellt sich Brigitte Oelke vor.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3db6d6b9324cc55f5bc9abd55add371252156fb5.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=9myCsOX60Ao</link>
+            <guid isPermaLink="false">cef511e2-077d-4aa6-8660-cd2e98d343c7</guid>
+            <pubDate>Thu, 17 Mar 2016 12:06:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Musical "Chicago", Theater St.Gallen]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.tagblatt.ch/nachrichten/kultur/tb-sk/Strahlendes-Heimspiel-der-Musical-Diva;art188,3287230</link>
             <guid isPermaLink="false">4d376284-506d-4d83-80e3-289fca0199d2</guid>
             <pubDate>Thu, 17 Mar 2016 01:36:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Newsletter von Musicalstar Brigitte Oelke abonnieren]]></title>
-            <description><![CDATA[<article><h1>Newsletter von Musicalstar Brigitte Oelke abonnieren</h1><p>Abonnieren oder kündigen Sie hier den Newsletter von Musicalstar Brigitte Oelke</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3bb44fab0dd086e5dc593c049b07ffbea8b632e8.jpg"></article>]]></description>
-            <link>http://brigitteoelke.com/Newsletter/</link>
-            <guid isPermaLink="false">2c5fb2de-7896-4375-b00f-385fab8495e7</guid>
-            <pubDate>Thu, 17 Mar 2016 02:46:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
