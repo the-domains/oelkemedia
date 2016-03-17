@@ -4,7 +4,7 @@
         <description><![CDATA[Brigitte Oelke in den Medien]]></description>
         <link>https://thegrid.ai/oelkemedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 13:36:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 14:21:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oelkemedia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Strahlendes Heimspiel der Musical-Diva]]></title>
@@ -35,6 +35,13 @@
             <pubDate>Thu, 17 Mar 2016 00:58:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Brigitte Oelke - I Am What I Am ]]></title>
+            <description><![CDATA[<article><h1>Brigitte Oelke - I Am What I Am </h1><p>ORSO Orchestra & Choral Society feat. Brigitte Oelke // Rock Symphony Night 2013 // Friedrichstadt Palast, Berlin // Musik & Text: Jerry Herman</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/784da220f5c4f79bf2d4c1f5cd00efdb27e37da1.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=t6gCZjIqxho</link>
+            <guid isPermaLink="false">a24635a0-4fc8-4a39-9cf5-ebb9fc7d3213</guid>
+            <pubDate>Thu, 17 Mar 2016 14:21:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[JEDERMANN - Die Rockoper]]></title>
             <description><![CDATA[<article><h1>JEDERMANN - Die Rockoper</h1><p>DomStufen-Festspiele 2014: "Jedermann - Die Rockoper" - YouTube</p></article>]]></description>
             <link>urn:uuid:71dcdf8a-1ac1-43a2-8d7a-27823dc61063</link>
@@ -46,7 +53,7 @@
             <description><![CDATA[<article><h1>Brigitte Oelke bei «Aeschbacher» (SFR)</h1><p>Brigitte Oelke</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa651f5bb69cd5b29462d9fba12568c0875f6a66.jpg"></article>]]></description>
             <link>http://www.srf.ch/play/tv/aeschbacher/video/brigitte-oelke?id=a07eb3df-45fe-4150-9a8f-6ab99da4a319</link>
             <guid isPermaLink="false">342354eb-9174-489b-bd17-1a02d94d7eef</guid>
-            <pubDate>Thu, 17 Mar 2016 13:09:56 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2016 13:36:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We Will Rock You - 40 Jahre Queen]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=9myCsOX60Ao</link>
             <guid isPermaLink="false">cef511e2-077d-4aa6-8660-cd2e98d343c7</guid>
             <pubDate>Thu, 17 Mar 2016 12:06:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Musical "Chicago", Theater St.Gallen]]></title>
-            <description><![CDATA[<article><h1>Musical "Chicago", Theater St.Gallen</h1><p>Nach der Originalvorlage von Bob Fosse Musik/Text: Fred Ebb/John Kander // Regie und Choreographie: Melissa King // Assistent: Andrea Kingston // Musikalische Leitung: Rob Paul // Bühnenbild: Knut Hetzer // Kostüm: Magali Gerberon // Roxie Hart: Sabrina Harper // Velma Kelly: Sabine Hettlich // Billy Flynn: Tobias Licht  // Amos Hart: Frank Winkels // Mama Morton: Brigitte Oelke // Mary Sunshine: Martin Schäffner // Conferencier: Michael Clauder // Fred Casely: Jurrian Bles // Ladies: Florenze Kasumba, Rachel Jane Marshall, Nini Stadlmann, Suzanna Novosel, Gina Marie Hudson, Marion Zollinger // Men: Nivaldo Allves,Ivo Gioacomozzi, Cedric Lee Bradley, Robert Johansson, Jurrian Bles,Danilo Brunetti</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7af8569e9539ba6304e8a12834e98ff249d0354f.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=EhfvwF0eF7Y</link>
-            <guid isPermaLink="false">4bab4999-e781-49a7-b1a8-ce7ef68059d1</guid>
-            <pubDate>Thu, 17 Mar 2016 11:50:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
