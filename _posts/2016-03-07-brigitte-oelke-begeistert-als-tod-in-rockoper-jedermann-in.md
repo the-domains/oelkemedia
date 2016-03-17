@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.thueringer-allgemeine.de/web/zgt/kultur/detail/-/specific/Brigitte-Oelke-begeistert-als-Tod-in-Rockoper-Jedermann-in-Erfurt-1628608559'
 inLanguage: de
-starred: true
+starred: false
 keywords: []
 description: 'Sie war die Anita der "West Side Story" in Leipzig und an der Deutschen Oper am Rhein Düsseldorf, die Rebecca in "Tanz der Vampire" am Raimund-Theater Wien, die Evita an den Städtische Bühnen Münster, die Killer Queen in "We will rock you" im Musical-Dome Köln, in Basel, Berlin und Zürich.'
-datePublished: '2016-03-07T21:05:28.286Z'
-dateModified: '2016-03-07T21:04:40.824Z'
+datePublished: '2016-03-17T16:47:52.518Z'
+dateModified: '2016-03-17T16:47:50.122Z'
 author: []
 related: []
 app_links: []
