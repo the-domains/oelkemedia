@@ -6,9 +6,9 @@ isBasedOnUrl: 'http://www.tagblatt.ch/nachrichten/kultur/tb-sk/Strahlendes-Heims
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-17T00:31:51.431Z'
-dateModified: '2016-03-17T00:31:42.706Z'
+description: 'Schon nach wenigen Takten hat sie die Leute in der Tasche. Brigitte Oelke schwingt ihre roten Locken, singt aus voller Kehle, und alle klatschen mit. Es ist der erste Solo-Auftritt der Musicalsängerin in ihrer Heimatstadt.'
+datePublished: '2016-03-17T01:36:49.489Z'
+dateModified: '2016-03-17T01:36:46.771Z'
 author: []
 title: Strahlendes Heimspiel der Musical-Diva
 sourcePath: _posts/2016-03-16-strahlendes-heimspiel-der-musical-diva.md
