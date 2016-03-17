@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Schon nach wenigen Takten hat sie die Leute in der Tasche. Brigitte Oelke schwingt ihre roten Locken, singt aus voller Kehle, und alle klatschen mit. Es ist der erste Solo-Auftritt der Musicalsängerin in ihrer Heimatstadt.'
-datePublished: '2016-03-17T01:36:49.489Z'
-dateModified: '2016-03-17T01:36:46.771Z'
+datePublished: '2016-03-17T13:34:52.358Z'
+dateModified: '2016-03-17T13:34:49.767Z'
 author: []
 title: Strahlendes Heimspiel der Musical-Diva
 sourcePath: _posts/2016-03-16-strahlendes-heimspiel-der-musical-diva.md
