@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://thepickde.wordpress.com/2015/03/26/cd-check-the-private-session-musicals-vol-1-von-brigitte-oelke/'
 inLanguage: de
-starred: true
+starred: false
 keywords: []
 description: 'Weltweit haben Brigitte Oelke mehrere Millionen Menschen live auf der Bühne erlebt. Zählt man ihre TV-Präsenz hinzu, landet man schnell im zweistelligen Millionenbereich. Ihre unverwechselbare Stimme und ihr beeindruckender Stimmumfang sind ihr Markenzeichen - wenn man mal von dem roten Schopf absieht. Brigitte Oelke ist bekannt als eine der besten Beltstimmen unserer Zeit und eine Bereicherung für...'
-datePublished: '2016-03-07T21:05:16.835Z'
-dateModified: '2016-03-07T21:05:10.006Z'
+datePublished: '2016-03-17T16:44:26.408Z'
+dateModified: '2016-03-17T16:44:24.008Z'
 author:
   - name: thepickde
     url: 'https://thepickde.wordpress.com/author/thepickde/'
@@ -16,14 +16,14 @@ author:
 related: []
 app_links: []
 title: 'CD-CHECK: "The Private Session - Musicals Vol. 1" von Brigitte Oelke'
+sourcePath: _posts/2016-03-07-cd-check-the-private-session-musicals-vol-1-von-brigit.md
+published: true
 authors: []
 publisher:
   name: THE-PICK.de
   domain: thepickde.wordpress.com
   url: 'http://thepickde.wordpress.com'
   favicon: 'https://s2.wp.com/i/favicon.ico'
-sourcePath: _posts/2016-03-07-cd-check-the-private-session-musicals-vol-1-von-brigit.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
