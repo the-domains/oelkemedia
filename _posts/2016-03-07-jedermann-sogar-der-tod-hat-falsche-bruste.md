@@ -12,14 +12,14 @@ inLanguage: de
 app_links: []
 isBasedOnUrl: 'http://www.tlz.de/web/zgt/kultur/detail/-/specific/Jedermann-Sogar-der-Tod-hat-falsche-Brueste-1805308981'
 title: '"Jedermann": Sogar der Tod hat falsche Brüste'
-datePublished: '2016-03-07T21:06:44.453Z'
-dateModified: '2016-03-07T21:03:43.947Z'
+datePublished: '2016-03-17T16:45:40.203Z'
+dateModified: '2016-03-17T16:45:30.110Z'
 sourcePath: _posts/2016-03-07-jedermann-sogar-der-tod-hat-falsche-bruste.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
-starred: true
+starred: false
 authors: []
 _context: 'http://schema.org'
 _type: MediaObject
