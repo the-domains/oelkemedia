@@ -17,8 +17,8 @@ keywords:
   - freddie
   - tributes
 description: 'Brigitte Oelke in der VOX-Dokumentation "40 Jahre Queen"'
-datePublished: '2016-03-17T01:37:57.003Z'
-dateModified: '2016-03-17T01:37:54.186Z'
+datePublished: '2016-03-17T12:54:40.669Z'
+dateModified: '2016-03-17T12:54:35.774Z'
 author:
   - name: BB Promotion GmbH
     url: 'https://www.youtube.com/user/BBPromotionGmbH'
