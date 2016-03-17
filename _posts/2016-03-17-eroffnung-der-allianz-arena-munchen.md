@@ -17,8 +17,8 @@ keywords:
   - skjonnet
   - lycisca
 description: Auftritt zur Eröffnung der Allianz Arena (München) am 31.05.2005 // Mit Brigitte Oelke als KILLER QUEEN // Live übertragen vom ZDF.
-datePublished: '2016-03-17T17:40:58.876Z'
-dateModified: '2016-03-17T17:40:46.707Z'
+datePublished: '2016-03-17T17:44:38.638Z'
+dateModified: '2016-03-17T17:41:00.272Z'
 author:
   - name: julespania
     url: 'https://www.youtube.com/user/julespania'
