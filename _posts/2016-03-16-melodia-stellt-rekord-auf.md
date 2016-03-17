@@ -6,9 +6,9 @@ isBasedOnUrl: 'http://www.tagblatt.ch/ostschweiz/stgallen/rorschach/tb-ot08/Melo
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-16T01:39:36.023Z'
-dateModified: '2016-03-16T01:39:33.255Z'
+description: 'Brigitte Oelke und Thomas Straumann bringen die Stimmung zum Kochen. Sie singen Hits wie «I Want it All» oder «Another One Bites the Dust». Das Publikum klatscht begeistert mit im Takt. «Seid ihr jetzt alle wach?», ruft die Killer-Queen Brigitte Oelke. Die Antwort ist klar: Jetzt sind wohl alle hellwach – ganz ohne Wecker. Eine Zuschauerin sagt begeistert: «Die beiden singen einfach super. Da bekomme ich Gänsehaut.»'
+datePublished: '2016-03-17T01:39:03.667Z'
+dateModified: '2016-03-17T01:38:59.107Z'
 author: []
 title: Melodia stellt Rekord auf
 sourcePath: _posts/2016-03-16-melodia-stellt-rekord-auf.md
