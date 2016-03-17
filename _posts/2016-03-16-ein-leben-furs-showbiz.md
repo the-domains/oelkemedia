@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-17T01:36:02.857Z'
-dateModified: '2016-03-17T01:35:53.334Z'
+datePublished: '2016-03-17T01:36:27.614Z'
+dateModified: '2016-03-17T01:36:27.234Z'
 title: Ein Leben fürs Showbiz
 author: []
 sourcePath: _posts/2016-03-16-ein-leben-furs-showbiz.md
