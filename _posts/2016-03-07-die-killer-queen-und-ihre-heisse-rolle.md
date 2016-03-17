@@ -7,8 +7,8 @@ inLanguage: de
 starred: false
 keywords: []
 description: 'Abend für Abend steht die Schweizerin Brigitte Oelke auf der Bühne, momentan in Basel. Im Musical "We Will Rock You" ( hier gibts das Video dazu) spielt sie die Killer Queen und singt sich mit ihrer Powerstimme in die Herzen der Zuschauer. Die Einladung, bei Johns Schweizer Küche mitzumachen, nimmt sie spontan an.'
-datePublished: '2016-03-07T02:01:04.167Z'
-dateModified: '2016-03-07T02:01:00.780Z'
+datePublished: '2016-03-17T00:58:48.300Z'
+dateModified: '2016-03-17T00:56:09.753Z'
 author: []
 related: []
 app_links: []
