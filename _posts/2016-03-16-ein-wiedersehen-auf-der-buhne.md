@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-16T01:26:20.690Z'
-dateModified: '2016-03-16T01:26:04.357Z'
+description: 'Das Konzert war ein alter Traum von Mutter Rosy Zeiter, die sich nichts sehnlicher wünschte, als mit ihrer musikbegabten, mit Verlaub: musikbesessenen Familie vereint auf der Bühne zu stehen.'
+datePublished: '2016-03-17T01:41:32.812Z'
+dateModified: '2016-03-17T01:41:30.356Z'
 title: Ein Wiedersehen auf der Bühne
 author: []
+sourcePath: _posts/2016-03-16-ein-wiedersehen-auf-der-buhne.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-ein-wiedersehen-auf-der-buhne.md
-published: true
 url: ein-wiedersehen-auf-der-buhne/index.html
 _type: Article
 
