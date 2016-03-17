@@ -1,29 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=BNyOG9esMdk'
+inLanguage: null
+starred: true
+keywords: []
+description: 'Fulminanter Auftritt, bombastischer Rock Sound: Heute ließ das Ensemble von WE WILL ROCK YOU die Stierkampfarena von Palma de Mallorca erzittern und schickte brandgefährliche Rock-Riffs und elektrisierende Vocals direkt aus dem „Coliseo Balear" über den Äther nach Deutschland.Die war die letzte Sendung mit Moderator Thomas Gottschalk.'
+datePublished: '2016-03-17T14:34:49.309Z'
+dateModified: '2016-03-17T14:34:43.822Z'
 author:
   - name: BB Promotion GmbH
     url: 'https://www.youtube.com/user/BBPromotionGmbH'
     avatar: {}
 related: []
+app_links: []
+title: 'Brigitte Oelke bei „Sommer-Wetten, dass..?"'
+sourcePath: _posts/2016-03-17-we-will-rock-you-bei-sommer-wetten-dass.md
+published: true
+authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-keywords: []
-description: 'Fulminanter Auftritt, bombastischer Rock Sound: Heute ließ das Ensemble von WE WILL ROCK YOU die Stierkampfarena von Palma de Mallorca erzittern und schickte brandgefährliche Rock-Riffs und elektrisierende Vocals direkt aus dem „Coliseo Balear" über den Äther nach Deutschland.'
-app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=BNyOG9esMdk'
-title: 'We Will Rock You bei „Sommer-Wetten, dass..?"'
-datePublished: '2016-03-17T14:31:42.978Z'
-dateModified: '2016-03-17T14:31:39.022Z'
-sourcePath: _posts/2016-03-17-we-will-rock-you-bei-sommer-wetten-dass.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
-inLanguage: null
-starred: true
-authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
