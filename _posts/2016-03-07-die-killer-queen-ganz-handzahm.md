@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.musicals-online.com/musicals-online/Brigitte_Oelke.html'
 inLanguage: de
-starred: true
+starred: false
 keywords: []
 description: "‚Play the Game' lieber auf Englisch singen, aber es ist sehr gut übersetzt worden und passt so wie es ist gut zum Stück. Michaela Flint: Haben Sie für die Sequenzen auf der Videowand speziellen Mimiktraining absolviert? Brigitte Oelke: Das mit der Videowand ist schon sehr speziell. Vor allem weil es jeden Abend live ist."
-datePublished: '2016-03-17T00:58:20.837Z'
-dateModified: '2016-03-17T00:56:17.967Z'
+datePublished: '2016-03-17T16:45:08.766Z'
+dateModified: '2016-03-17T16:45:01.027Z'
 author: []
 related: []
 app_links: []
