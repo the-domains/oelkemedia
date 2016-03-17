@@ -7,19 +7,19 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-16T01:27:17.797Z'
-dateModified: '2016-03-16T01:16:47.893Z'
+datePublished: '2016-03-17T00:33:45.740Z'
+dateModified: '2016-03-17T00:33:42.479Z'
 title: «Rolle der bösen Killer Queen liegt mir»
 author: []
+sourcePath: _posts/2016-03-16-rolle-der-bosen-killer-queen-liegt-mir.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-rolle-der-bosen-killer-queen-liegt-mir.md
-published: true
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8a462cc-dad3-4915-8310-6f0c4f275896.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bdbe47cf3289a4f955cff6fffbdaa60d14bff9f3.jpg)
