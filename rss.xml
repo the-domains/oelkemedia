@@ -4,7 +4,7 @@
         <description><![CDATA[Brigitte Oelke in den Medien]]></description>
         <link>https://thegrid.ai/oelkemedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 13:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 13:18:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oelkemedia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Brigitte Oelkes CD "The Private Session"]]></title>
@@ -26,6 +26,13 @@
             <link>http://www.musicals-online.com/musicals-online/Brigitte_Oelke.html</link>
             <guid isPermaLink="false">ef734711-5c69-492b-af52-da41da0f49a3</guid>
             <pubDate>Thu, 17 Mar 2016 00:58:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JEDERMANN - Die Rockoper]]></title>
+            <description><![CDATA[<article><h1>JEDERMANN - Die Rockoper</h1><p>DomStufen-Festspiele 2014: "Jedermann - Die Rockoper" - YouTube</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/333ed3b4-c6db-4d34-8959-798a936d96b3.jpg"></article>]]></description>
+            <link>urn:uuid:71dcdf8a-1ac1-43a2-8d7a-27823dc61063</link>
+            <guid isPermaLink="false">09ca5221-2b94-41dd-9d27-77bf0708ea32</guid>
+            <pubDate>Thu, 17 Mar 2016 13:18:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brigitte Oelke bei «Aeschbacher» (SFR)]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=fpiTjMEloCk</link>
             <guid isPermaLink="false">74ab5604-4a30-4d86-ace9-924f8eb734b8</guid>
             <pubDate>Thu, 17 Mar 2016 11:46:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WWRY Benissimo TV Promo]]></title>
-            <description><![CDATA[<article><h1>WWRY Benissimo TV Promo</h1><p>The Original Swiss cast of We Will Rock You performing a medley of Radio Gaga, Another One Bites the Dust, We Will Rock You and We Are the Champions on Benissimo on SF1. Features Serkan Kaya as Galileo and Brigitte Oelke as Killer Queen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/570dbe50a9689372badd07bc739b55624f730cd0.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=pazYaHwDDw8</link>
-            <guid isPermaLink="false">c19017b6-f7e8-41c9-b039-243d48b4266f</guid>
-            <pubDate>Thu, 17 Mar 2016 11:45:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
