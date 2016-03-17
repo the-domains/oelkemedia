@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.musical1.de/news/brigitte-oelke-record-release-im-gruenen-salon/'
 inLanguage: de
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-09T11:56:04.868Z'
-dateModified: '2016-03-09T11:56:02.567Z'
+datePublished: '2016-03-17T00:57:21.985Z'
+dateModified: '2016-03-17T00:57:14.018Z'
 author: []
 related: []
 app_links: []
