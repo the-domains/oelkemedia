@@ -7,8 +7,8 @@ inLanguage: de
 starred: false
 keywords: []
 description: Brigitte Oelke im Interview bei «Aeschbacher» im schweizer TV.
-datePublished: '2016-03-17T13:09:56.156Z'
-dateModified: '2016-03-17T13:09:53.572Z'
+datePublished: '2016-03-17T13:36:30.170Z'
+dateModified: '2016-03-17T13:36:26.839Z'
 author:
   - name: ''
     url: null
