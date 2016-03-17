@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.myheimat.de/bielefeld/freizeit/glamourerfolg-drama-und-wahn-der-schmale-grat-zwischen-gestern-und-heute-d2674758.html'
 inLanguage: de
-starred: true
+starred: false
 keywords: []
 description: 'Bielefeld: Theater Bielefeld | Erfolg ist immer nur von einer gewissen Dauer. Irgendwann kommt etwas Neues, Anderes, Moderneres. In der Mode wie der Musik und ebenso Berühmtheit endet einmal. Norma Desmond, eine alternde Stummfilm-Diva, will diese Realität nicht wahr haben.'
-datePublished: '2016-03-17T00:59:09.882Z'
-dateModified: '2016-03-17T00:54:51.668Z'
+datePublished: '2016-03-17T16:46:14.902Z'
+dateModified: '2016-03-17T16:46:08.519Z'
 author:
   - name: Regina Tegeler
     url: 'http://www.myheimat.de/stadthagen/profile/regina-tegeler-42895.html'
