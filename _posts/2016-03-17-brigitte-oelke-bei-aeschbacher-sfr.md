@@ -7,8 +7,8 @@ inLanguage: de
 starred: false
 keywords: []
 description: Brigitte Oelke im Interview bei «Aeschbacher» im schweizer TV.
-datePublished: '2016-03-17T12:58:44.973Z'
-dateModified: '2016-03-17T12:58:26.152Z'
+datePublished: '2016-03-17T13:09:24.496Z'
+dateModified: '2016-03-17T13:09:21.609Z'
 author:
   - name: ''
     url: null
@@ -16,14 +16,14 @@ author:
 related: []
 app_links: []
 title: Brigitte Oelke bei «Aeschbacher» (SFR)
+sourcePath: _posts/2016-03-17-brigitte-oelke-bei-aeschbacher-sfr.md
+published: true
 authors: []
 publisher:
   name: SRF
   domain: www.srf.ch
   url: 'http://srf.ch'
   favicon: 'http://www.srf.ch/play/assets/build/production/img/srg/srf/favicon.ico'
-sourcePath: _posts/2016-03-17-brigitte-oelke-bei-aeschbacher-sfr.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
