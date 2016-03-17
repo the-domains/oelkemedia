@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'ORSO Orchestra & Choral Society feat. Brigitte Oelke // Rock Symphony Night 2013 // Friedrichstadt Palast, Berlin // Musik & Text: Jerry Herman'
-datePublished: '2016-03-17T14:21:09.115Z'
-dateModified: '2016-03-17T14:20:59.699Z'
+datePublished: '2016-03-17T14:25:02.317Z'
+dateModified: '2016-03-17T14:24:59.474Z'
 author:
   - name: Brigitte Oelke
     url: 'https://www.youtube.com/user/oelkemusic'
@@ -16,14 +16,14 @@ author:
 related: []
 app_links: []
 title: 'Brigitte Oelke - I Am What I Am '
+sourcePath: _posts/2016-03-17-brigitte-oelke-i-am-what-i-am.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-sourcePath: _posts/2016-03-17-brigitte-oelke-i-am-what-i-am.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
