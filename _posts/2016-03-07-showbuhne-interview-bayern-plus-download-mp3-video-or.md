@@ -7,8 +7,8 @@ inLanguage: de
 starred: false
 keywords: []
 description: 'TV und Radio zum Mitnehmen - Mit den Podcasts und Downloads des BR können Sie TV- und Hörfunk-Sendungen zeitversetzt auf Ihrem Computer oder MP3-Player ansehen und anhören! Einfach kostenlos abonnieren und herunterladen.'
-datePublished: '2016-03-07T21:22:25.208Z'
-dateModified: '2016-03-07T21:22:18.043Z'
+datePublished: '2016-03-19T14:18:36.038Z'
+dateModified: '2016-03-19T14:18:34.221Z'
 author: []
 related: []
 app_links: []
@@ -25,6 +25,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Showbühne - Interview - Bayern plus - Download&amp;comma; MP3&amp;comma; Video &amp;vert; Podcast &amp;vert; BR</h1><p>TV und Radio zum Mitnehmen - Mit den Podcasts und Downloads des BR können Sie TV- und Hörfunk-Sendungen zeitversetzt auf Ihrem Computer oder MP3-Player ansehen und anhören&amp;excl; Einfach kostenlos abonnieren und herunterladen&amp;period;</p><img src="http://www.br-online.de/podcast/img/itunes.gif" /></article>
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/728b038052d3f83b11a109eee94d5b8b4792270f.jpg)
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8020218-695e-4fe0-81b8-6d23e37e71c3.jpg)
+<article style=""><h1>Showbühne - Interview - Bayern plus - Download, MP3, Video | Podcast | BR</h1><p>TV und Radio zum Mitnehmen - Mit den Podcasts und Downloads des BR können Sie TV- und Hörfunk-Sendungen zeitversetzt auf Ihrem Computer oder MP3-Player ansehen und anhören! Einfach kostenlos abonnieren und herunterladen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cfb06a98444776c26350f3f046a1bbd04f9719b1.gif" /></article>
