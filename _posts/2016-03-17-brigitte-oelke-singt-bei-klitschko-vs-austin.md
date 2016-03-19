@@ -17,8 +17,8 @@ keywords:
   - taptap
   - arreola
 description: Brigitte Oelke singt die Nationalhymne der Vereinigten Staaten von Amerika für den Herausforderer Ray Austin
-datePublished: '2016-03-17T17:19:59.296Z'
-dateModified: '2016-03-17T17:19:54.766Z'
+datePublished: '2016-03-19T14:09:32.190Z'
+dateModified: '2016-03-19T14:09:27.863Z'
 author:
   - name: World Boxing √
     url: 'https://www.youtube.com/user/CyborgTerminator2029'
@@ -62,14 +62,14 @@ app_links:
     namespace: google
     type: ios
 title: Brigitte Oelke singt bei Klitschko vs. Austin
+sourcePath: _posts/2016-03-17-brigitte-oelke-singt-bei-klitschko-vs-austin.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-03-17-brigitte-oelke-singt-bei-klitschko-vs-austin.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
