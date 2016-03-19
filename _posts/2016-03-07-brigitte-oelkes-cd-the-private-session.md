@@ -4,23 +4,23 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.nw.de/nachrichten/kultur/7086301_Brigitte-Oelkes-CD-The-Private-Session.html'
 inLanguage: de
-starred: true
+starred: false
 keywords: []
 description: 'Bielefeld. Am Stadttheater rockt die Sängerin Brigitte Oelke zurzeit als Acid Queen in dem Musical "Tommy" und begeistert mit ihrer Performance das Publikum. Wer mehr von dieser Stimme hören möchte, sollte in die gelungene CD "The Private Session" hineinhören. In zehn Coverversionen bekannter Hits zeigt die Sängerin, was sie stimmlich alles drauf hat.'
-datePublished: '2016-03-17T01:02:58.294Z'
-dateModified: '2016-03-17T01:02:54.232Z'
+datePublished: '2016-03-19T14:20:47.037Z'
+dateModified: '2016-03-19T14:20:45.847Z'
 author: []
 related: []
 app_links: []
 title: 'Brigitte Oelkes CD "The Private Session"'
+sourcePath: _posts/2016-03-07-brigitte-oelkes-cd-the-private-session.md
+published: true
 authors: []
 publisher:
   name: Kultur
   domain: www.nw.de
   url: 'http://www.nw.de'
   favicon: 'http://www.nw.de/_em_daten/nw/_layout/favicon.ico'
-sourcePath: _posts/2016-03-07-brigitte-oelkes-cd-the-private-session.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
