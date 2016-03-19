@@ -17,8 +17,8 @@ keywords:
   - skjonnet
   - lycisca
 description: Auftritt zur Eröffnung der Allianz Arena (München) am 31.05.2005 // Mit Brigitte Oelke als KILLER QUEEN // Live übertragen vom ZDF.
-datePublished: '2016-03-17T17:44:38.638Z'
-dateModified: '2016-03-17T17:41:00.272Z'
+datePublished: '2016-03-19T14:06:06.645Z'
+dateModified: '2016-03-19T14:06:04.461Z'
 author:
   - name: julespania
     url: 'https://www.youtube.com/user/julespania'
@@ -62,14 +62,14 @@ app_links:
     namespace: google
     type: ios
 title: Eröffnung der Allianz Arena (München)
+sourcePath: _posts/2016-03-17-eroffnung-der-allianz-arena-munchen.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-03-17-eroffnung-der-allianz-arena-munchen.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
