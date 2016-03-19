@@ -4,7 +4,7 @@
         <description><![CDATA[Brigitte Oelke in den Medien]]></description>
         <link>https://thegrid.ai/oelkemedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 14:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 14:18:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oelkemedia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Private Session - Musicals Vol. 1]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.musical1.de/news/brigitte-oelke-record-release-im-gruenen-salon/</link>
             <guid isPermaLink="false">fc78d56b-7cb2-4ff6-b1b7-5c37c5d3e893</guid>
             <pubDate>Sat, 19 Mar 2016 14:13:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Showbühne - Interview - Bayern plus - Download, MP3, Video | Podcast | BR]]></title>
+            <description><![CDATA[<article><h1>Showbühne - Interview - Bayern plus - Download, MP3, Video | Podcast | BR</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/728b038052d3f83b11a109eee94d5b8b4792270f.jpg"></article>]]></description>
+            <link>http://www.br-online.de/podcast/mp3-download/bayern-plus/mp3-download-podcast-showbuehne-interview.shtml</link>
+            <guid isPermaLink="false">92b5df1b-d7df-403e-9940-85eaaac81f16</guid>
+            <pubDate>Sat, 19 Mar 2016 14:18:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brigitte Oelke bei «Aeschbacher» (SFR)]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.tlz.de/web/zgt/kultur/detail/-/specific/Jedermann-Sogar-der-Tod-hat-falsche-Brueste-1805308981</link>
             <guid isPermaLink="false">0868bca6-1e2f-4de8-8bb1-5e36d9a35993</guid>
             <pubDate>Thu, 17 Mar 2016 16:45:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CD-CHECK: "The Private Session - Musicals Vol. 1" von Brigitte Oelke]]></title>
-            <description><![CDATA[<article><h1>CD-CHECK: "The Private Session - Musicals Vol. 1" von Brigitte Oelke</h1><p>Weltweit haben Brigitte Oelke mehrere Millionen Menschen live auf der Bühne erlebt. Zählt man ihre TV-Präsenz hinzu, landet man schnell im zweistelligen Millionenbereich. Ihre unverwechselbare Stimme und ihr beeindruckender Stimmumfang sind ihr Markenzeichen - wenn man mal von dem roten Schopf absieht. Brigitte Oelke ist bekannt als eine der besten Beltstimmen unserer Zeit und eine Bereicherung für...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0eb90bc0af16d5aa3959f5e20ccb6d1280eac814.jpg"></article>]]></description>
-            <link>https://thepickde.wordpress.com/2015/03/26/cd-check-the-private-session-musicals-vol-1-von-brigitte-oelke/</link>
-            <guid isPermaLink="false">b2e1f2ad-1b4a-4bf8-8543-2145dfa81339</guid>
-            <pubDate>Thu, 17 Mar 2016 16:44:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
