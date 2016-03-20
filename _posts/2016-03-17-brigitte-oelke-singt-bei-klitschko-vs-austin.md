@@ -17,8 +17,8 @@ keywords:
   - taptap
   - arreola
 description: Brigitte Oelke singt die Nationalhymne der Vereinigten Staaten von Amerika für den Herausforderer Ray Austin
-datePublished: '2016-03-19T14:09:32.190Z'
-dateModified: '2016-03-19T14:09:27.863Z'
+datePublished: '2016-03-20T20:39:10.546Z'
+dateModified: '2016-03-20T20:39:08.168Z'
 author:
   - name: World Boxing √
     url: 'https://www.youtube.com/user/CyborgTerminator2029'
@@ -75,5 +75,3 @@ _context: 'http://schema.org'
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c21963eef1111ae45a017114e0f53f4f174c189.jpg)
-
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FapqvOuiriYo%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DapqvOuiriYo&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FapqvOuiriYo%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
