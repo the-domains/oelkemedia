@@ -17,8 +17,8 @@ keywords:
   - musicallady
   - tecklenburg
 description: 'The Original Swiss cast of We Will Rock You performing a medley of Radio Gaga, Another One Bites the Dust, We Will Rock You and We Are the Champions on Benissimo on SF1. Features Serkan Kaya as Galileo and Brigitte Oelke as Killer Queen.'
-datePublished: '2016-03-19T14:07:31.139Z'
-dateModified: '2016-03-19T14:07:28.387Z'
+datePublished: '2016-03-20T20:43:06.165Z'
+dateModified: '2016-03-20T20:43:03.442Z'
 author:
   - name: brodyhunter
     url: 'https://www.youtube.com/user/brodyhunter'
@@ -75,5 +75,3 @@ _context: 'http://schema.org'
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc66c96c-e23c-40eb-a128-d5814e9bf811.jpg)
-
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FpazYaHwDDw8%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpazYaHwDDw8&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FpazYaHwDDw8%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
