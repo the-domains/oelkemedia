@@ -4,7 +4,7 @@
         <description><![CDATA[Brigitte Oelke in den Medien]]></description>
         <link>https://thegrid.ai/oelkemedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 20:43:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 21:28:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oelkemedia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Private Session - Musicals Vol. 1]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.musical1.de/news/brigitte-oelke-record-release-im-gruenen-salon/</link>
             <guid isPermaLink="false">fc78d56b-7cb2-4ff6-b1b7-5c37c5d3e893</guid>
             <pubDate>Sat, 19 Mar 2016 14:13:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JEDERMANN - Die Rockoper]]></title>
+            <description><![CDATA[<article><h1>JEDERMANN - Die Rockoper</h1><p>DomStufen-Festspiele 2014: "Jedermann - Die Rockoper" - YouTube</p></article>]]></description>
+            <link>urn:uuid:71dcdf8a-1ac1-43a2-8d7a-27823dc61063</link>
+            <guid isPermaLink="false">09ca5221-2b94-41dd-9d27-77bf0708ea32</guid>
+            <pubDate>Fri, 25 Mar 2016 21:28:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Audio "Brigitte Oelke im Gespräch mit Markus Wagner - 29.01.2016"]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.badische-zeitung.de/rock-pop-vorschau/die-rolle-ihres-lebens--52820127.html</link>
             <guid isPermaLink="false">aedcc0b7-26f7-496f-851d-0a6761ac38cd</guid>
             <pubDate>Thu, 17 Mar 2016 16:48:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brigitte Oelke begeistert als Tod in Rockoper "Jedermann" in Erfurt]]></title>
-            <description><![CDATA[<article><h1>Brigitte Oelke begeistert als Tod in Rockoper "Jedermann" in Erfurt</h1><p>Sie war die Anita der "West Side Story" in Leipzig und an der Deutschen Oper am Rhein Düsseldorf, die Rebecca in "Tanz der Vampire" am Raimund-Theater Wien, die Evita an den Städtische Bühnen Münster, die Killer Queen in "We will rock you" im Musical-Dome Köln, in Basel, Berlin und Zürich.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce08022e303537d54563e20ec21ac97936df89cb.jpg"></article>]]></description>
-            <link>http://www.thueringer-allgemeine.de/web/zgt/kultur/detail/-/specific/Brigitte-Oelke-begeistert-als-Tod-in-Rockoper-Jedermann-in-Erfurt-1628608559</link>
-            <guid isPermaLink="false">5afef3f9-f21d-43be-9436-99e28d5988cc</guid>
-            <pubDate>Thu, 17 Mar 2016 16:47:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
