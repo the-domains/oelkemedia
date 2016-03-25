@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'DomStufen-Festspiele 2014: "Jedermann - Die Rockoper" - YouTube'
-datePublished: '2016-03-17T13:35:31.319Z'
-dateModified: '2016-03-17T13:35:25.208Z'
+datePublished: '2016-03-25T21:28:22.411Z'
+dateModified: '2016-03-17T13:37:44.718Z'
 author: []
 title: JEDERMANN - Die Rockoper
 sourcePath: _posts/2016-03-17-jedermann-die-rockoper.md
