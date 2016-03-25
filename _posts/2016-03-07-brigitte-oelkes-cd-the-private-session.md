@@ -7,8 +7,8 @@ inLanguage: de
 starred: false
 keywords: []
 description: 'Bielefeld. Am Stadttheater rockt die Sängerin Brigitte Oelke zurzeit als Acid Queen in dem Musical "Tommy" und begeistert mit ihrer Performance das Publikum. Wer mehr von dieser Stimme hören möchte, sollte in die gelungene CD "The Private Session" hineinhören. In zehn Coverversionen bekannter Hits zeigt die Sängerin, was sie stimmlich alles drauf hat.'
-datePublished: '2016-03-19T14:20:47.037Z'
-dateModified: '2016-03-19T14:20:45.847Z'
+datePublished: '2016-03-25T21:35:22.655Z'
+dateModified: '2016-03-25T21:35:09.611Z'
 author: []
 related: []
 app_links: []
