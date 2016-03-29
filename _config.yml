@@ -1,29 +1,41 @@
-name: oelkemedia
-favicon: null
-layout_spectrum: 0.62276
-typography_spectrum: 0.3109
 title: Brigitte Oelke in den Medien
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.6727159
+favicon: null
+name: oelkemedia
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0.75
+  saturation: 0.6875
   brandColors:
     - '#000000'
     - '#b75a2f'
     - '#ceb36c'
     - '#3f1f10'
     - '#bc6e3c'
-  brandStrength: 0.75
   lightness: 0.5
-  saturation: 0.6875
   rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.3109
