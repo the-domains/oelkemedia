@@ -6,10 +6,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: This site is powered by
-datePublished: '2016-03-08T13:51:47.909Z'
-dateModified: '2016-03-08T13:51:44.849Z'
-title: Impressum
-author: []
+datePublished: '2016-04-20T18:43:56.603Z'
+dateModified: '2016-04-20T18:43:52.937Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-03-08-impressum.md
 published: true
 authors: []
@@ -26,15 +28,14 @@ _type: WebPage
 
 This site is powered by
 
- Robert Würges    
+Robert Würges   
 StagePeople  
-Holsteinische Str. 18    
+Holsteinische Str. 18   
 D-12161 Berlin   
- GERMANY T    
-+49 171 9849586    
+GERMANY T   
++49 171 9849586   
 [e-mail][0]  
 Umsatzsteuer-Identifikationsnummer gem. § 27a UStG: DE252372105   
-Inhaltlich Verantwortlicher gem. § 55 II RStV: Robert Würges (Anschrift s.o.)
-
+Inhaltlich Verantwortlicher gem. § 55 II RStV: Robert Würges (Anschrift s.o.) 
 
 [0]: http://www.stagepeople.com/
