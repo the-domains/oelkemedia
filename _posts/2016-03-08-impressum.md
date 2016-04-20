@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: This site is powered by
-datePublished: '2016-04-20T18:44:18.647Z'
-dateModified: '2016-04-20T18:44:15.518Z'
+datePublished: '2016-04-20T18:47:17.799Z'
+dateModified: '2016-04-20T18:47:07.043Z'
 title: ''
 author:
   - name: ''
@@ -24,9 +24,8 @@ url: impressum/index.html
 _type: WebPage
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a96447b6fcea48ea2c42326018e5579a7fcba967.jpg)
-
 This site is powered by
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d3723a1-bc27-4295-b16e-c0eed1470cb1.png)
 
 Robert Würges   
 StagePeople  
