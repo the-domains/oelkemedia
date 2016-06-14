@@ -10,8 +10,8 @@ description: >-
   Brigitte Oelke als Killer Queen in der finalen Sendung der größten TV-Show in
   Europa – "Wetten, dass..!?" // Sensationeller Auftritt der Cast von WE WILL
   ROCK YOU
-datePublished: '2016-06-14T00:14:02.669Z'
-dateModified: '2016-06-14T00:13:59.606Z'
+datePublished: '2016-06-14T00:15:04.809Z'
+dateModified: '2016-06-14T00:15:01.023Z'
 author:
   - name: ''
     url: ''
