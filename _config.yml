@@ -25,10 +25,6 @@ cta:
   bucket: null
   domain: null
 navigation:
-  - id: 'http://www.brigitteoelke.com'
-    url: 'http://www.brigitteoelke.com'
-    name: brigitteoelke.com
-    type: external
   - id: 'http://www.theprivatesession.com'
     url: 'http://www.theprivatesession.com'
     name: The Private Session
