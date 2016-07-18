@@ -33,6 +33,10 @@ navigation:
     url: 'http://www.brigitteoelke.com/News/'
     name: brigitteoelke.com
     type: external
+  - id: 'http://www.oelkemusic.com'
+    url: 'http://www.oelkemusic.com'
+    name: English
+    type: external
 favicon: null
 collections:
   - index:
