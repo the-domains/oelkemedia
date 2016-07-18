@@ -1,20 +1,35 @@
-title: Brigitte Oelke in den Medien
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 0.6727159
-favicon: null
-name: oelkemedia
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+typography_spectrum: 0.3109
+color:
+  brandStrength: 0.75
+  saturation: 0.6875
+  brandColors:
+    - '#000000'
+    - '#b75a2f'
+    - '#ceb36c'
+    - '#3f1f10'
+    - '#bc6e3c'
+  lightness: 0.5
+  rhythmicContrast: 1
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.6727159
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: oelkemedia
+cta:
+  version: null
+  bucket: null
+  domain: null
+navigation:
+  - id: 'http://www.brigitteoelke.com'
+    url: 'http://www.brigitteoelke.com'
+    name: brigitteoelke.com
+    type: external
+favicon: null
 collections:
   - index:
       navigable: true
@@ -27,15 +42,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  brandStrength: 0.75
-  saturation: 0.6875
-  brandColors:
-    - '#000000'
-    - '#b75a2f'
-    - '#ceb36c'
-    - '#3f1f10'
-    - '#bc6e3c'
-  lightness: 0.5
-  rhythmicContrast: 1
-typography_spectrum: 0.3109
+title: Brigitte Oelke in den Medien
+purpose: []
